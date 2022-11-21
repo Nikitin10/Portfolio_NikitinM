@@ -1,0 +1,43 @@
+/* Tag Name */
+.table {
+   text-align: center;
+   background: Silver;
+    color: black;
+}
+
+/* body {
+    background: #ddd;
+} */
+/* class */
+.card {
+    padding: 10px;
+    background: #fff;
+    /* margin-bottom: 10px; */
+}
+.card {
+    background: Silver;
+    color: black;
+}
+.card p {
+    font-size: 15px;
+}
+.html {
+    background: Silver;
+    color: black;
+}
+.css {
+    background: Silver;
+    color: black;
+}
+/* ID */
+#header {
+    background: Silver;
+    padding: 10px;
+}
+#header {
+    /* margin-bottom: 10px; */
+}
+.life {
+    background: Silver;
+    padding: 10px;
+}

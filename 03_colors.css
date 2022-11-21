@@ -1,0 +1,8 @@
+.color-1 {
+    color:darkred;
+}
+
+.color-2 {
+    color: aqua;
+    /* opacity: 0.2; - выбирает яркость от 0 до 1 */
+}

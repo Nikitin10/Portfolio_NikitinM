@@ -1,0 +1,15 @@
+.border-1{
+    /* border-width: 2px;
+    border-style: dashed;
+    border-color: rebeccapurple; */
+    border: 2px solid darkblue;
+}
+
+.border-2 {
+    border-style: solid;
+    border-radius: 50px;
+}
+.border-3 {
+    border-style: double;
+    border-radius: 50%;
+}
